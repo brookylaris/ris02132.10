@@ -7,7 +7,7 @@
     "default_status": "idle",
     "ascii_font": "big",
     "quoteembed_color": "auto",
-    "embed_color": "",
+    "embed_color": "#ffffff",
     "timezone": "",
     "24hours": "true",
 	"password": ""
