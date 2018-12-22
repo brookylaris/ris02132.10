@@ -1,7 +1,7 @@
 {
   "token": "NTI1NjEyNjgyOTY4MDM5NDI1.Dv9ttQ.HAVdrOj3ML83JEyP9QbB0njVtRs",
   "cmd_prefix": "r?",
-  "customcmd_prefix": ".",
+  "customcmd_prefix": "r!",
   "bot_identifier": ":robot:",
   "track": false
 }
