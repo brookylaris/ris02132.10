@@ -88,7 +88,7 @@ def wizard():
         print('Cannot use setup Wizard becaue of silent mode')
         exit(0)
     config = {}
-    print("Welcome to Appu's Discord Selfbot!\nThis setup wizard will guide you through the initial configuration required to get the bot working.\nThe choices you make in this wizard can be changed at any time by editing the settings/config.json file.\n")
+    print("Welcome to Rage's Discord Selfbot!\nThis setup wizard will guide you through the initial configuration required to get the bot working.\nThe choices you make in this wizard can be changed at any time by editing the settings/config.json file.\n")
     
     print("The first step is to set up your token.")
     print("Go into your Discord window and press Ctrl+Shift+I (Ctrl+Opt+I can also work on macOS)")
