@@ -12,7 +12,7 @@ class Server:
 
     def __init__(self, bot):
         self.bot = bot
-        self.invites = ['discord.gg/', 'discordapp.com/invite/']
+        self.invites = ['discord.gg/exEBTMA', 'discordapp.com/invite/rageempire']
         self.invite_domains = ['discord.gg', 'discordapp.com']
 
     def find_server(self, msg):
